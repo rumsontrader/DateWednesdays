@@ -1,0 +1,6 @@
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\bin\Debug\DateWednesdays.exe.config
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\bin\Debug\DateWednesdays.exe
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\bin\Debug\DateWednesdays.pdb
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\obj\Debug\DateWednesdays.csprojResolveAssemblyReference.cache
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\obj\Debug\DateWednesdays.exe
+C:\Users\SHCF\documents\visual studio 2017\Projects\ProgrammingPractice\DateWednesdays\obj\Debug\DateWednesdays.pdb
